@@ -1,12 +1,15 @@
 p {
-  color: orange;
+  color: rgb(255,177,0);
 }
 h1 {
-  color: green;
+  color: #bf9430;
 }
 h2 {
-  color: blue;
+  color: #a67300;
 }
 h3 {
-  color: red;
+  color: #ffc540;
+}
+li {
+  color: #ffd473;
 }
