@@ -22,12 +22,13 @@ p {
 }
 table {
   width: 500px;
+  height: 300px;
 }
 th {
   text-align: left;
+  font-weight: normal;
 }
 td {
-  width: 400px;
-  height: 300px;
+  font-weight: bold;
   text-align: center;
 }
