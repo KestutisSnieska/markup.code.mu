@@ -18,8 +18,11 @@ li {
 p {
   width: 300px;
 }
-table{
+table {
   width: 500px;
+}
+th {
+  text-align: left;
 }
 td {
   width: 400px;
