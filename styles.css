@@ -18,6 +18,9 @@ li {
 p {
   width: 300px;
 }
+table{
+  width: 500px;
+}
 td {
   width: 400px;
   height: 300px;
