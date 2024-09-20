@@ -17,6 +17,7 @@ li {
 }
 p {
   width: 300px;
+  text-align: justify;
 }
 table {
   width: 500px;
