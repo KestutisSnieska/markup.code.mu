@@ -1,25 +1,46 @@
-p {
-  width: 300px;
-  color: rgb(255,177,0);
-  font-size: 30px;
-  text-align: justify;
-}
 h1 {
   color: #bf9430;
   font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
   text-align: center;
+
 }
+
 h2 {
   width: 300px;
   color: #a67300;
   font-style: italic;
   font-weight: normal;
   font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
+
 h3 {
   color: #ffc540;
+  font-family: Georgia;
 }
+
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h6{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+  width: 300px;
+  color: rgb(255,177,0);
+  font-size: 30px;
+  font-family: Arial Black;
+  text-align: justify;
+}
+
 li {
   color: #ffd473;
 }
@@ -30,8 +51,10 @@ table {
 th {
   text-align: left;
   font-weight: normal;
+  font-family: Comic Sans MS;
 }
 td {
   font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
