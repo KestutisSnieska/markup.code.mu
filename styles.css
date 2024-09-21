@@ -37,6 +37,7 @@ p {
   width: 300px;
   color: rgb(255,177,0);
   font-size: 30px;
+  line-height: 45px;
   font-family: Arial Black;
   text-align: justify;
 }
