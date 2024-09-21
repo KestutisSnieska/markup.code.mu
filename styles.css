@@ -34,14 +34,9 @@ h6{
 }
 
 p {
-	font-family: Arial;
-	font-size: 40px;
-	font-weight: bold;
-	text-indent: 50px;
-	font-style: italic;
-	line-height: 60px;
+  text-indent: 50px;
+  font: italic bold 40px/60px Arial;
 }
-
 li {
   color: #ffd473;
 }
