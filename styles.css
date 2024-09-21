@@ -35,10 +35,8 @@ h6{
 
 p {
 	width: 300px;
-	font-family: Arial;
-	color: red;
-	font-size: 40px;
-	font-weight: bold;
+  color: red;
+	font: bold 40px Arial;
 }
 
 li {
