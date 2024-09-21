@@ -34,9 +34,12 @@ h6{
 }
 
 p {
-	width: 300px;
-  color: red;
-	font: bold 40px Arial;
+	font-family: Arial;
+	font-size: 40px;
+	font-weight: bold;
+	text-indent: 50px;
+	font-style: italic;
+	line-height: 60px;
 }
 
 li {
