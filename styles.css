@@ -34,10 +34,11 @@ h6{
 }
 
 p {
-  width: 300px;
-  color: rgb(255,177,0);
-	font: 13px/20px "Times New Roman";
-  text-align: justify;
+	width: 300px;
+	font-family: Arial;
+	color: red;
+	font-size: 40px;
+	font-weight: bold;
 }
 
 li {
